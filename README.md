@@ -1,5 +1,3 @@
-[![Header](hero.png "Header")]()
-
 ## Hey there 👋
 
 My name is Yuan Gao and I'm currently a master student majoring in informatics and am seeking for a full-time job! I'll graduate August, 2021. 
