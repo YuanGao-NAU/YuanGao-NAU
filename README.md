@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-My name is Yuan Gao and I'm currently a master student majoring in informatics and am seeking for a full-time job! I'll graduate August, 2021. 
+My name is Yuan Gao and I'm currently a master student majoring in informatics and am seeking for a full-time job! I'll graduate December, 2021. 
 <a href="https://www.linkedin.com/in/yuan-gao-806702196/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="YuanGao" height="20" width="20" /></a>
 
 👨‍💻 I've spent a good amount of time woking on back-end engineering, mostly building features and taking care of architectures for server-side products and enterprise software.
