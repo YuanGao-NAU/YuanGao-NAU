@@ -26,4 +26,4 @@ Here is my [resume](https://drive.google.com/file/d/145q7Oyo6znLQsyxPcW3Oh2cOLjI
 
 ### 🕵️‍ Some more stats on GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuanGao-NAU&theme=dark&bg_color=121212)](https://github.com/YuanGao-NAU/github-readme-stats)
-![Hao's github stats](https://github-readme-stats.vercel.app/api?username=YuanGao-NAU&show_icons=true&theme=dark&bg_color=121212&icon_color=F78C6C)
+![Yuan's github stats](https://github-readme-stats.vercel.app/api?username=YuanGao-NAU&show_icons=true&theme=dark&bg_color=121212&icon_color=F78C6C)
