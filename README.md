@@ -13,9 +13,6 @@ My name is Yuan Gao and I'm currently a master student majoring in informatics a
 
 💚 My recent project was a website call [EcoPAD](https://ecolab.nau.edu/ecopad/) aims to automate the workflow of ecological forecasting. We are now able to do 7-day near term ecological forecasting in two sites owned by own collaborators with this platform. 
 
-### 📄 Resume
-Here is my [resume](https://drive.google.com/file/d/145q7Oyo6znLQsyxPcW3Oh2cOLjIl5Xxx/view?usp=sharing)!
-
 ### 🔧 Technologies I'm passionate about
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&labelColor=121212&color=007396)
